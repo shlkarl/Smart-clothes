@@ -15,3 +15,7 @@ https://kit-e.ru/elektronika-vstroennaya-v-odezhdu-tehnologii-i-perspektivy-chas
 https://habr.com/ru/articles/455126/
 
 https://www.mvideo.ru/blog/pomogaem-razobratsya/umnoj-odezhdy-chto-kupit
+https://www.nature.com/articles/s41586-018-0390-x
+https://indicator.ru/engineering-science/vpletennye-v-tkan-provoda-09-08-2018.htm
+https://www.diodmag.ru/aboutdiods/277-kurtka-so-svetodiodami-povysit-vashu-bezopasnost-v-temnoe-vremya-sutok.html
+https://tvspb.ru/news/2016/10/25/inzhenernaya-magiya-magistrant-itmo-sozdal-kurtku-hameleon
