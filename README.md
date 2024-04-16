@@ -1,5 +1,5 @@
 # Smart Clothes
-![Текст описания](https://www.example.com/image.jpg)
+![Текст описания](wear.jpg)
 
 
 https://www.youtube.com/watch?v=G9ADVeNpypk
