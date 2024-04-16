@@ -1,5 +1,5 @@
 # Smart Clothes
-![Одна собака]([dog.png](https://github.com/shlkarl/Smart-clothes/blob/main/wear.jpg) "Собака смотрит влево")
+![Текст описания](https://www.example.com/image.jpg)
 
 
 https://www.youtube.com/watch?v=G9ADVeNpypk
