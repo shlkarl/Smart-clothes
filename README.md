@@ -1,4 +1,5 @@
-# wear
+# Smart Clothes
+![Одна собака](dog.png "Собака смотрит влево")
 
 
 https://www.youtube.com/watch?v=G9ADVeNpypk
