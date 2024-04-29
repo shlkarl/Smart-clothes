@@ -29,6 +29,8 @@
  
 
 # Источники вдохновения
+* https://eljurcrod.wixsite.com/crod/jacket
+* 
 * https://www.rbc.ru/life/news/64393ac19a794714c8d627cf
 
 * https://www.youtube.com/watch?v=G9ADVeNpypk
