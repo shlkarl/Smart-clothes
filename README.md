@@ -29,6 +29,8 @@
  
 
 # Источники вдохновения
+* https://www.rbc.ru/life/news/64393ac19a794714c8d627cf
+
 * https://www.youtube.com/watch?v=G9ADVeNpypk
 
 * https://www.ozon.ru/seller/piks-sng-23055/products/?miniapp=seller_23055
